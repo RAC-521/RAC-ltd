@@ -1,0 +1,170 @@
+body
+{
+    font-family: 'Baloo Paaji 2', cursive;
+}
+
+.navbar
+{
+    background-color: lavender;
+    margin-bottom: 120px;
+}
+
+#carouselExampleControls
+{
+    margin-bottom: 100px;
+    border-radius: 10px;
+}
+
+.orange-bg
+{
+    background-color: #fceae8;
+}
+
+.carousel-item
+{
+    padding: 20px 40px;
+}
+
+.carousel-item h3
+{
+    color:rgb(227, 51, 233);
+}
+
+.carousel-item p
+{
+    color:grey;
+    font-size: 20px;
+}
+
+.buy-now
+{
+    padding: 10px 20px;
+    height: 70px;
+    width: 120px;
+    color: black;
+    background-image: url(images/42-420037_cartoon-money-stack-png-transparent-png.png);
+    background-size: cover;
+    font-size: 20px;
+    border: 2px solid rgb(227, 51, 233);
+    border-radius:40px;
+    box-shadow: grey 5px 5px 10px;
+}
+
+.categories
+{
+    padding-bottom: 100px;
+}
+.categories h1
+{
+    color: white;
+}
+
+#cat1, #cat2, #cat3
+{
+    border-radius: 15px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: grey 10px 10px 10px;
+}
+
+#cat1
+{
+    background:linear-gradient(90deg, rgb(96, 233, 96), rgb(167, 238, 167));
+    
+}
+#cat2
+{
+    background:linear-gradient(90deg, rgb(68, 142, 226), rgb(150, 218, 235));
+    
+}
+#cat3
+{
+    background:linear-gradient(90deg, rgb(231, 161, 68), rgb(248, 213, 138));
+   
+}
+
+.watch-in-card
+{
+    height: 200px;
+    width: 200px;
+}
+
+.card
+{
+    background-color: lavender;
+}
+
+.card h3
+{
+    color: rgb(227, 51, 233);
+}
+
+.card-footer
+{
+    border: none;
+    background-color: lavender;
+}
+
+#shoes, #watches, #backpacks
+{
+    margin-bottom: 80px;
+}
+
+/*#watches .card
+{
+    background-color: rgb(167, 238, 167);
+}
+#watches .card-footer
+{
+    background-color: rgb(167, 238, 167);
+}
+#shoes .card
+{
+    background-color: rgb(150, 218, 235);
+}
+#shoes .card-footer
+{
+    background-color: rgb(150, 218, 235);
+}
+#backpacks .card
+{
+    background-color: rgb(248, 213, 138);
+}
+#backpacks .card-footer
+{
+    background-color: rgb(248, 213, 138);
+}*/
+
+#backpacks img
+{
+    height: 200px;
+    width: 200px;
+}
+
+#signin
+{
+    margin-bottom: 50px;
+    text-align: center;
+    padding: 50px 90px;
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+#signin p
+{
+    color: grey;
+}
+
+#signin button
+{
+    background-color: white;
+    border: 2px solid rgb(227, 51, 233);
+    border-radius:10px;
+    box-shadow: grey 5px 5px 10px;
+    height: 40px;
+    width: 90px;
+    font-size: 20px;
+    
+}
+
+
